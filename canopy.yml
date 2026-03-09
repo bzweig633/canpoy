@@ -1,7 +1,5 @@
 title: Digital Humanities Example
 collection:
-  - https://api.dc.library.northwestern.edu/api/v2/collections/7ac5769f-a1d9-4227-a350-bf8bd8b1cddc?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/collections/94536627-cfdf-413c-852b-0cb16d986da3?as=iiif
 manifest:
   - https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000621x/manifest.json
   - https://iiif.vam.ac.uk/collections/O755793/manifest.json
