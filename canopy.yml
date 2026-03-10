@@ -4,6 +4,7 @@ collection:
   - https://api.irht.cnrs.fr/ark:/63955/fhsdv17eanf8/manifest.json
 manifest:
   - https://api.irht.cnrs.fr/ark:/63955/fx176qy4l5qo/manifest.json
+  - https://api.irht.cnrs.fr/ark:/63955/fhsdv17eanf8/manifest.json
   - https://iiif.vam.ac.uk/collections/O755793/manifest.json
   - https://iiif.vam.ac.uk/collections/O136839/manifest.json
   - https://iiif.vam.ac.uk/collections/O74660/manifest.json
